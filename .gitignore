@@ -1,4 +1,2 @@
 node_modules
-*.js
-!webpack.config.js
-!webpack.config.prod.js
+dist
