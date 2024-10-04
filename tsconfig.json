@@ -121,6 +121,7 @@
     "decorators",
     "drag_and_drop",
     "3rd_party_libs",
-    "select_and_share_place"
+    "select_and_share_place",
+    "react_and_ts"
   ]
 }
