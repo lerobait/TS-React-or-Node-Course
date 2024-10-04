@@ -110,17 +110,5 @@
     // "skipDefaultLibCheck": true,                      /* Skip type checking .d.ts files that are included with TypeScript. */
     "skipLibCheck": true /* Skip type checking all .d.ts files. */
   },
-  "exclude": [
-    "node_modules",
-    "ts_basics",
-    "ts_compiler",
-    "js_and_ts",
-    "classes_and_interfaces",
-    "advanced_types",
-    "generics",
-    "decorators",
-    "drag_and_drop",
-    "3rd_party_libs",
-    "select_and_share_place"
-  ]
+  "exclude": ["node_modules"]
 }
